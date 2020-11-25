@@ -1,7 +1,7 @@
 # start_page
 My experimental start page using HTML CSS and JS.
 Currently hosted on Berkeley's Open Computing Facility's servers at:
-https://ocf.io/yassermth/
+https://www.ocf.berkeley.edu/~yassermth/
 
 Next step would be eliminating JS and making a great page using only HTML and CSS.
 
